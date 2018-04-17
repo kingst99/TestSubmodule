@@ -1,0 +1,6 @@
+[submodule "Content"]
+	path = Content
+	url = https://github.com/kingst99/Content
+[submodule "Views"]
+	path = Views
+	url = https://github.com/kingst99/Views
